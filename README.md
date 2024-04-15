@@ -11,7 +11,4 @@
 * Bootstrap :front-end framework
 * Database : Mongoose
 
-# Getting started
-Follow these steps
-* npm init
-* npm run dev
+
